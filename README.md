@@ -10,3 +10,11 @@
 - **JSON Web Tokens (JWT):** Used for authentication and authorization.
 - **Bcrypt.js:** Used for securely hashing passwords.
 - **dotenv:** Used for managing environment variables.
+
+## Project Design on Figma
+
+For a detailed visual representation of the project's design, you can access our Figma design document:
+
+[![Figma Design](https://img.shields.io/badge/View%20Design%20on%20Figma-Important?style=flat-square&logo=figma)](https://www.figma.com/file/zXABK2VqhFb5ESSgOuyPfj/blog-design?type=design&node-id=0-1&mode=design&t=nRo31GJPclcYePgF-0)
+
+[Click here to view the project design on Figma](https://www.figma.com/file/zXABK2VqhFb5ESSgOuyPfj/blog-design?type=design&node-id=0-1&mode=design&t=nRo31GJPclcYePgF-0)
